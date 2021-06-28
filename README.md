@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lang-c
+- 👀 I’m interested in front-end design and development.
+- 🌱 I’m always looking to grow and learn something new!
